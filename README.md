@@ -24,11 +24,12 @@ Apaga o arquivo original antes da checagem. Recomendado desabilitar e checar pra
 Converte tudo o que tem não pasta previamente e não só os arquivos novos
 
 ### --- CONFIGURAÇÕES DE VÍDEO ---
-####PERFIL_VIDEO_ESCOLHIDO
+
+#### PERFIL_VIDEO_ESCOLHIDO
 
 Qual setup de codec de video ou audio e qual container
 
-####PERFIS_VIDEO
+#### PERFIS_VIDEO
 
 ##### vp9_mkv
 
